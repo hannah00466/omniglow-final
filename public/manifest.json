@@ -3,10 +3,16 @@
   "name": "Lumina Glow — Sanctuary of Wellbeing",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "icon.png",
       "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
+      "sizes": "192x192 512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512",
+      "purpose": "maskable"
     }
   ],
   "start_url": "/",
