@@ -1,0 +1,17 @@
+{
+  "short_name": "Lumina Glow",
+  "name": "Lumina Glow — Sanctuary of Wellbeing",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["health", "lifestyle", "fitness"]
+}

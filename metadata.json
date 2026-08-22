@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Glow Studio",
+  "description": "Minimalist premium wellness sanctuary featuring dedicated Sleep, Food, Hydration, Body, and Mind pillars with gradual circadian realignment, personalized hydration, and 7-day trial.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

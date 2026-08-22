@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#000000" />
+  <!-- Minimal White 'LG' Monogram -->
+  <path d="M7.5 7.5V24.5H15" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="square" stroke-linejoin="miter" />
+  <path d="M24.5 12C23.2 9.2 21 7.5 18 7.5C13.3 7.5 9.5 11.3 9.5 16C9.5 20.7 13.3 24.5 18 24.5C22.7 24.5 25.8 20.7 25.8 16H18.5" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="square" stroke-linejoin="miter" />
+</svg>
