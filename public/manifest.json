@@ -5,6 +5,7 @@
     {
       "src": "/favicon.svg",
       "type": "image/svg+xml",
+     "purpose": "any maskable"
       "sizes": "192x192 512x512"
     }
   ],
